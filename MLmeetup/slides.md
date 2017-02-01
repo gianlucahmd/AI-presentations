@@ -104,8 +104,7 @@ Engineering -> Entrepreneurship -> Data Science
 
 ---
 
-# Implicazioni:
-## Un nuovo (l'ultimo?) "AI spring"
+# Funziona?
 > "If one could devise a successful chess machine, one would seem to have penetrated to the core of human intellectual endeavor"
 
 > Allen Newell, 1958
@@ -117,12 +116,24 @@ Engineering -> Entrepreneurship -> Data Science
 
 ---
 
-# Implicazioni:
-## Un nuovo (l'ultimo?) "AI spring"
+## Deep Learning: un nuovo (ultimo?) "AI spring"
+![](../images/DL.png)
 
+---
+
+## Deep Learning: un nuovo (ultimo?) "AI spring"
+![](../images/deeplearning_scheme.png)
+
+---
+
+<!-- .slide: data-background="../images/andrewng_cats.jpg" -->
+## Deep Learning: un nuovo (ultimo?) "AI spring" <!-- .element: style="color:black" -->
+
+---
+
+## Deep Learning: un nuovo (ultimo?) "AI spring"
 > "It may be a hundred years before a computer beats humans at ’Go’, maybe even longer"
 > - The New York Times, 1997
-
 
 ---
 
@@ -132,7 +143,27 @@ Engineering -> Entrepreneurship -> Data Science
 
 ---
 
-<!-- .slide: data-background="../images/alphago.png" -->
+## Deep Learning & Reasoning
+### Level = Superhuman
+![Alphago](../images/alphago.png)
+
+---
+
+## Deep Learning & Computer vision
+### Level = Superhuman
+![Computer vision](../images/CV.gif)
+
+---
+
+## Deep Learning & Voice Recognition
+### Level = Same as human
+![Computer vision](../images/voice_recognition.png)
+
+---
+
+## Deep Learning & Speech Synthesis
+### Level = Close to human
+![Computer vision](../images/speech.png)
 
 ---
 
@@ -159,6 +190,11 @@ Engineering -> Entrepreneurship -> Data Science
 
 ## Potenza computazionale disponibile
 ![CPU performances](../images/CPU_performance.jpg)
+
+---
+
+## Performance GPUs
+![GPUs NVIDIA](../images/deeplearning_evo.png)
 
 ---
 
@@ -195,4 +231,8 @@ Engineering -> Entrepreneurship -> Data Science
 # Conclusioni
 > "AI is the new electricity. Just as 100 years ago electricity transformed industry after industry, AI will now do the same." 
 > * Andrew Ng, Chief Scientist at Baidu
+
+---
+
+# Q&A
 
