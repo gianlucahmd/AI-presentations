@@ -52,11 +52,12 @@ background-color: black;
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #fff;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  /*font-family: "Source Sans Pro", Helvetica, sans-serif;*/
+  font-family: 'Yanone Kaffeesatz', sans-serif;
   font-weight: 600;
   line-height: 1.2;
   letter-spacing: normal;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   text-shadow: none;
   word-wrap: break-word; }
 
@@ -86,7 +87,7 @@ background-color: black;
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
+  max-width: 90%;
   max-height: 95%; }
 
 .reveal strong,
@@ -236,8 +237,9 @@ background-color: black;
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #fff;
+  /*background: rgba(255, 255, 255, 0.12);*/
+  background: black;
+  /*border: 4px solid #fff;*/
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
