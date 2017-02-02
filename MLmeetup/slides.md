@@ -13,7 +13,7 @@ Entrepreneur and Statistiscian, Engineer, Self-driving car Engineer
 ---
 
 <!-- .element: class="box" -->
-![Simone](../images/laurea.jpg) ![Gianluca](../images/guykawasaki.jpg) ![Nico](../images/jeffdean.jpg)
+![Simone](../images/laurea.JPG) ![Gianluca](../images/guykawasaki.jpg) ![Nico](../images/jeffdean.jpg)
 ## About me: 
 Engineering -> Entrepreneurship -> Data Science
 ##### gianluca@ai-academy.com
@@ -175,6 +175,16 @@ Engineering -> Entrepreneurship -> Data Science
 # Algoritmi
 * Rumelhart et Al., Learning representations by back-propagating errors. 1986
 * Corinna Cortes and Vladimir Vapnik. Support-vector networks. 1995
+* 50+ nuovi paper al giorno su arxiv.
+
+---
+
+# Strumenti
+* Scikit
+* Tensorflow
+* Caffe
+* Keras
+* Theano
 
 ---
 
@@ -191,10 +201,10 @@ Engineering -> Entrepreneurship -> Data Science
 ## Potenza computazionale disponibile
 ![CPU performances](../images/CPU_performance.jpg)
 
----
+<!-- ---
 
 ## Performance GPUs
-![GPUs NVIDIA](../images/deeplearning_evo.png)
+![GPUs NVIDIA](../images/deeplearning_evo.png) -->
 
 ---
 
