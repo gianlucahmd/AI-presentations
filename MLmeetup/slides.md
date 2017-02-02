@@ -179,12 +179,43 @@ Engineering -> Entrepreneurship -> Data Science
 
 ---
 
-# Strumenti
+# Strumenti open source
 * Scikit
 * Tensorflow
 * Caffe
 * Keras
 * Theano
+
+---
+
+<!-- .element style="font-size:25px" -->
+## Strumenti in pratica: dante-bot
+
+```
+def build_graph(batch_size, seq_len, vocab_size, rnn_size):
+		x = tf.placeholder(tf.int32,[batch_size, seq_len])
+		y = tf.placeholder(tf.int32,[batch_size, seq_len])
+		cell = rnn_cell.GRUCell(rnn_size)
+		init = cell.zero_state(batch_size, tf.float32)
+		embeddings = tf.get_variable('embedding_matrix',[vocab_size, rnn_size])
+
+		rnn_inputs = tf.nn.embedding_lookup(embeddings, x)
+		rnn_outputs, final_state = tf.nn.dynamic_rnn(cell, rnn_inputs, initial_state = init)
+
+		with tf.variable_scope('softmax') as scope:
+			W = tf.get_variable('W',[rnn_size, vocab_size])
+			b = tf.get_variable('b',[vocab_size], initializer=tf.constant_initializer(0.0))
+
+		rnn_outputs = tf.reshape(rnn_outputs, [-1, rnn_size])
+		y_ = tf.reshape(y, [-1])
+		logits = tf.matmul(rnn_outputs, W) + b
+
+		predictions = tf.nn.softmax(logits)
+		cross_entropy = tf.nn.sparse_softmax_cross_entropy_with_logits(logits, y_)
+		loss = tf.reduce_mean(cross_entropy)
+		
+		train_step = tf.train.AdamOptimizer(learning_rate).minimize(loss)
+```
 
 ---
 
@@ -238,9 +269,26 @@ Engineering -> Entrepreneurship -> Data Science
 
 ---
 
+* Social: Pinterest deep-learning-powered reccommender: +30% repins
+* Ecommerce: The Clymb ha avuto +175% revenue/1000 promo email, -72% churn (HBR)
+* Customer service: 85% interazioni senza interazione umana nel 2020 (Gartner).
+
+---
+
+* Marketing & sales: 76% delle aziende che usano ML hanno aumentato le proprie revenue (Accenture)
+* Fintech: Banche che usano ML per promuovere prodotti ottengono +10% sales e -20% churn (Accenture).
+* Ingegneria: Sight ha ridotto downtime macchine 50% e aumentato performance del 25%
+* ...
+
+---
+
 # Conclusioni
 > "AI is the new electricity. Just as 100 years ago electricity transformed industry after industry, AI will now do the same." 
 > * Andrew Ng, Chief Scientist at Baidu
+
+---
+
+## È il momento di passare da "ML as a product" a "ML as a feature".
 
 ---
 
