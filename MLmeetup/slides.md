@@ -21,7 +21,7 @@ Engineering -> Entrepreneurship -> Data Science
 ---
 
 # "L'hype da AI"
-![billboard](../images/tweet.png)
+![billboard](../images/tweet.png) <!-- .element style="height: 45vh" -->
 
 ---
 
@@ -60,7 +60,7 @@ Engineering -> Entrepreneurship -> Data Science
 
 ## Prima applicazione di AI ristretta: 
 ### English-Russian translator
-![punchcard](../images/punchcard.png)
+![punchcard](../images/punchcard.png) <!-- .element style="height: 45vh" -->
 
 ---
 
@@ -145,19 +145,19 @@ Engineering -> Entrepreneurship -> Data Science
 
 ## Deep Learning & Reasoning
 ### Level = Superhuman
-![Alphago](../images/alphago.png)
+![Alphago](../images/alphago.png) 
 
 ---
 
 ## Deep Learning & Computer vision
 ### Level = Superhuman
-![Computer vision](../images/CV.gif)
+![Computer vision](../images/CV.gif) <!-- .element style="height: 45vh" -->
 
 ---
 
 ## Deep Learning & Voice Recognition
 ### Level = Same as human
-![Computer vision](../images/voice_recognition.png)
+![Computer vision](../images/voice_recognition.png) <!-- .element style="height: 45vh" -->
 
 ---
 
@@ -220,7 +220,7 @@ def build_graph(batch_size, seq_len, vocab_size, rnn_size):
 ---
 
 ## Dati disponibili
-![data available](../images/data_created.png)
+![data available](../images/data_created.png) <!-- .element style="height: 45vh" -->
 
 ---
 
