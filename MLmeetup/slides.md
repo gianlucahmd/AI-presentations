@@ -269,16 +269,6 @@ def build_graph(batch_size, seq_len, vocab_size, rnn_size):
 
 ---
 
-* Social: Pinterest deep-learning-powered reccommender: +30% repins
-* Ecommerce: The Clymb ha avuto +175% revenue/1000 promo email, -72% churn (HBR)
-* Customer service: 85% interazioni senza interazione umana nel 2020 (Gartner).
-
----
-
-* Marketing & sales: 76% delle aziende che usano ML hanno aumentato le proprie revenue (Accenture)
-* Fintech: Banche che usano ML per promuovere prodotti ottengono +10% sales e -20% churn (Accenture).
-* Ingegneria: Sight ha ridotto downtime macchine 50% e aumentato performance del 25%
-* ...
 
 ---
 
