@@ -39,7 +39,7 @@ From Make It Stick: The Science of Successful Learning by Peter C. Brown, Henry 
 The big shift in Machine Learning is in how we tell computers to do stuff.
 
 * Past: Here's a function, when new data comes in, apply the function
-* ML: Here's some data, and the expected output. Learn the function that given the input gives back the output.
+* ML: Here's some data (input), and what this data is (output). Learn the function that given the input gives back the output.
 
 ---
 
@@ -122,11 +122,13 @@ Two kinds of supervised learning:
 ---
 
 ## Can you tell which one of those models has the lowest cost (which is the best model)?
+(and...is it the best model?)
 ![housing price](../images/housingprice_overfitting.png)
 
 ---
 
 ## Can you tell which one of those models has the lowest cost (which is the best model)?
+(and...is it the best model?)
 ![housing price](../images/housingprice_overfitting_errors.png)
 
 ---
@@ -141,7 +143,7 @@ Two kinds of supervised learning:
 
 ---
 
-## Solution: we split the data into a training test and a test set.
+## Solution: we split the data into a training set and a test set.
 The algorithm is evalued based on its performances on data it has never seen, AKA its **generalization ability**.
 
 ---
@@ -163,7 +165,11 @@ It's the same exact concept, but in a N-dimensional space. Often the challenge i
 
 ---
 
-## Other example of Multi variage regression:
+## Bonus question: how do I represent with a function the parameter "Neighborhood"?
+
+---
+
+## Other example of Multi variate regression:
 I want to predict the height of a person. What features do I need?
 
 ---
@@ -294,7 +300,7 @@ What are the features?
 
 ---
 
-## This last problem I described is called "Content-baed recommendation":
+## This last problem I described is called "Content-based recommendation":
 
 ## There's another way that can work better, called "community based recommendation"
 
