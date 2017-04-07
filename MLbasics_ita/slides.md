@@ -200,6 +200,7 @@ Dipende da te, alcune idee:
 
 ## Nuovo esempio: 
 Voglio predire se un tumore è maligno o benigno in base alle sue dimensioni e all'età del paziente.
+
 ![classification](../images/classification.png)
 
 ---
@@ -244,7 +245,7 @@ Voglio predire se un tumore è maligno o benigno in base alle sue dimensioni e a
 
 ---
 
-## È il turno turno!
+## È il tuo turno!
 Vogliamo predire se una transazione monetaria è legittima. Che tipo di problema è?
 
 È un problema di classificazione! <!-- .element: class="fragment" -->
@@ -381,7 +382,7 @@ Carico orario  <!-- .element: class="fragment" -->
 ---
 
 ## 1. Inizia da un dataset e da una domanda
-* Posso definire una domanta?
+* Posso definire una domanda?
 * Le mie feature sono abbastanza/adatte per rispondere alla domanda?
 * Ho abbastanza dati?
 
