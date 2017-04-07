@@ -138,8 +138,8 @@ img{
 .circled-img img {
   border-radius: 100%;
   width: 180px;
-  margin-bottom: 40px;
-  transform: translate(0, 50%);
+  margin-bottom: 200px;
+  transform: translate(0, 0%);
 }
 
 h5 {

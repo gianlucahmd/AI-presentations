@@ -19,7 +19,7 @@ gianluca@ai-academy.com
 
 ---
 
-> "SI dice che un computer impara da un'esperienza E rispetto a una cefrta classe di compiti T e misura di performance P se le sue performance nel performare il compito T, come misurato da P, migliora con l'esperienza E."
+> "Si dice che un computer impara da un'esperienza E rispetto a una cefrta classe di compiti T e misura di performance P se le sue performance nel performare il compito T, come misurato da P, migliora con l'esperienza E."
 
 1996, Tom M.Mitchell
 
