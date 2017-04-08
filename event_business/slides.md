@@ -6,13 +6,14 @@ Roma
 
 # Piano della giornata
 
-- Fomento (Gianluca)
+- [Intro: Perchè l'AI](../intro) (Gianluca)
 
-- [Cos'e' l'intelligenza artificiale](../MLbasics_ita) (Gianluca & Nico)
+- Cos'è l'intelligenza artificiale:
+	- [Basics](../MLbasics_ita) (Gianluca)
 
-- [Deep learning](../deep_learning) (Nico)
+	- [Deep learning](../deep_learning) (Nico)
 
-- Team work
+- Team work! <!-- .element style="color: SpringGreen" -->
 
 - [Implementation Strategy](../implementation_strategy/) & [Demo](../recommender) (Nico)
 

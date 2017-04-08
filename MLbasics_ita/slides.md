@@ -166,6 +166,11 @@ Per esempio:
 
 ---
 
+[Visualizing High dimensional features](http://projector.tensorflow.org)
+
+---
+
+
 ## Domanda Bonus: come faccio a rappresentare con una funzione il parametro "quartiere"?
 
 ---
@@ -345,8 +350,8 @@ Ecco una [visualizzazione fighissima](https://www.naftaliharris.com/blog/visuali
 Ci sono altri algoritmi che traccerebbero diveri decision boundaries:
 [clustering algorithms](../images/clustering_algorithms.png)
 
----
 
+---
 
 ## Esempio: abbiamo 15000 utenti energetici, vogliamo dividerli in gruppi in base al loro modo di consumare.
 
@@ -376,45 +381,4 @@ Carico orario  <!-- .element: class="fragment" -->
 ![opower](../images/opower_clustered.png) <!-- .element: style="height : 50vh" --> 
 
 ---
-
-# Un framework di Machine Learning generalizzato
-
----
-
-## 1. Inizia da un dataset e da una domanda
-* Posso definire una domanda?
-* Le mie feature sono abbastanza/adatte per rispondere alla domanda?
-* Ho abbastanza dati?
-
----
-
-## 2. Esplora i dati, puliscili, e capisci quali sono le feature rilevanti
-* Rimuovi outliers
-* Inizia a fare ipotesi (pensa come un essere umano)
-* Rappresenta le features (hai bisogno di text vectorization? Discretizzazione? Scaling?)
-* Scegli le features (KBest, Percentile, PCA, etc.)
-
----
-
-## 3. Trova un algoritmo!
-* È supervised o unsupervised problem?
-	- Se supervised, l'output è discreto o continuo?
-* Inizia a testare algoritmi di base
-* Fine tune
-
----
-
-## 4. Valuta
-* Train/test split
-* Scegli metriche rilevanti
-
-
-
-
-
-
-
-
-
-
 
