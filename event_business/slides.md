@@ -1,6 +1,6 @@
 # Intelligenza artificiale per il tuo business
 
-Roma
+info@ai-academy.com
 
 ---
 
@@ -20,9 +20,3 @@ Roma
 - Success cases & Technology trends (Gianluca)
 
 - Aperitivo
-
----
-
-# Contatti
-
-info@ai-academy.com
