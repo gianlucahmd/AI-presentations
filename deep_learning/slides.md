@@ -93,6 +93,11 @@ Nel caso di immagini, le reti **convoluzionali** sono particolarmente efficaci.
 
 ---
 
+## Ci sono anche dei problemi...
+![wolves](../images/wolves.png)
+
+---
+
 ## Demo
 
 <img src="imgs/tensorflow_logo.jpg" width="500">
