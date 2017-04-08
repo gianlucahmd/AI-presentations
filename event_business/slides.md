@@ -17,7 +17,7 @@ Roma
 
 - [Implementation Strategy](../implementation_strategy/) & [Demo](../recommender) (Nico)
 
-- Success cases & Technology trends (Gianluca)
+- [Success cases & Technology trends](../conclusions) (Gianluca)
 
 - Aperitivo
 
