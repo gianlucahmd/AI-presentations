@@ -15,7 +15,7 @@ Roma
 
 - Team work! <!-- .element style="color: SpringGreen" -->
 
-- [Implementation Strategy](../implementation_strategy/) & [Demo](../recommender) (Nico)
+- [Implementation Strategy](../implementation_strategy/) & [Demos](../recommender) (Nico)
 
 - Success cases & Technology trends (Gianluca)
 

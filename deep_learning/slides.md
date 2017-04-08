@@ -101,63 +101,19 @@ More to come..
 
 ---
 
-# Machine Learning <br> passo-passo
+# Teamwork
 
 ---
 
-1. Parti dall'obiettivo
+## Obiettivo
 
-2. Raccogli e osserva i dati
+Inventare una AI-based feature per un prodotto
 
-3. Scegli un algoritmo
+> 1. Qual'è l'obiettivo?
+> 2. Come ottenere i dati?
+> 3. Di quale tipo di algoritmo ho bisogno?
+> 4. Come valutare i risultati?
 
-4. Valuta i risultati
-
----
-
-## 1. Obiettivo
-
-* Qual'è la domanda alla quale rispondere?
-
----
-
-## 2. Dati
-
----
-
-### 3. Algoritmo
-
----
-
-### 4. Valutazione
-
----
-
-## 1. Inizia da un dataset e da una domanda
-* Posso definire una domanda?
-* Le mie feature sono abbastanza/adatte per rispondere alla domanda?
-* Ho abbastanza dati?
-
----
-
-## 2. Esplora i dati, puliscili, e capisci quali sono le feature rilevanti
-* Rimuovi outliers
-* Inizia a fare ipotesi (pensa come un essere umano)
-* Rappresenta le features (hai bisogno di text vectorization? Discretizzazione? Scaling?)
-* Scegli le features (KBest, Percentile, PCA, etc.)
-
----
-
-## 3. Trova un algoritmo!
-* È supervised o unsupervised problem?
-	- Se supervised, l'output è discreto o continuo?
-* Inizia a testare algoritmi di base
-* Fine tune
-
----
-
-## 4. Valuta
-* Train/test split
-* Scegli metriche rilevanti
+**Tempi:** 1/2 ora di teamwork + 1/2 ora di discussione
 
 
